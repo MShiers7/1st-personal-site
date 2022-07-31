@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Cedarville+Cursive&family=Ubuntu:ital,wght@1,300&display=swap");
+footer {
+  text-align: center;
+}
+footer img {
+  height: 75px;
+}
+main {
+  size: 0 auto;
+  padding: 10px;
+}
+body {
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav {
+  font-size: x-large;
+  float: right;
+  overflow: auto;
+  position: relative;
+}
+span {
+  font-size: xx-large;
+  float: left;
+  position: fixed;
+}
+header {
+  top: 0;
+  overflow: auto;
+  background-color: white;
+  left: 0;
+  right: 0;
+  position: fixed;
+  padding: 3px;
+}
+footer {
+  bottom: 0;
+  background-color: white;
+  padding-top: 0%;
+  left: 0;
+  right: 0;
+  position: fixed;
+}
+section img {
+  height: 450px;
+}
+section {
+  text-align: center;
+}

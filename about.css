@@ -1,0 +1,25 @@
+img {
+  height: 250px;
+}
+p {
+  font-size: x-large;
+}
+h2 {
+  font-size: xx-large;
+  font-style: italic;
+}
+h1 {
+  font-size: xx-large;
+}
+span {
+  position: fixed;
+}
+nav {
+  overflow: auto;
+}
+.xbl {
+  float: right;
+}
+.spence {
+  height: 275px;
+}
